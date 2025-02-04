@@ -1,0 +1,11 @@
+crea una base de datos llamada concesionario y una tabla llamada coches con los campos:
+- Matricula
+- Modelo
+- Marca
+- Año
+- Km
+- Combustible
+- Caballos
+- TipoMarchas
+- Precio
+- Imagen (BLOB)
